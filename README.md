@@ -1,8 +1,8 @@
 ### Olá, sou Lucas Dourado.
 
-Seja bem vindo ao meu repositório Github. Aqui tenho os meus projetos desde o meu primeiro dia como programador. Por isso que você terá acesso a diversos projetos que faz parte do meu processo de evolução como programador.
+Seja bem vindo a meu repositório Github. Aqui tem os meus projetos desde os meus primeiros dias como programador. Por isso que você terá acesso a diversos projetos que faz parte do meu processo de evolução como programador.
 
-Alguns projetos são acadêmicos, outros são avaliação técnica e outros projetos que deixei esquecido no git kkkkkk (faz parte)
+Alguns projetos são acadêmicos, avaliação técnica, estudo e outros projetos que deixei esquecido no git kkkkkk (faz parte!)
 
 Caso queira entrar em contato comigo a forma mais eficiente é pelo meu email: lucasmirandadourado@gmail.com
 
