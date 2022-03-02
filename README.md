@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá, sou Lucas Dourado.
+
+Seja bem vindo ao meu repositório Github. Aqui tenho os meus projetos desde o meu primeiro dia como programador. Por isso que você terá acesso a diversos projetos que faz parte do meu processo de evolução como programador.
+
+Alguns projetos são acadêmicos, outros são avaliação técnica e outros projetos que deixei esquecido no git kkkkkk (faz parte)
+
+Caso queira entrar em contato comigo a forma mais eficiente é pelo meu email: lucasmirandadourado@gmail.com
+
+Rede social Linkedin: https://www.linkedin.com/in/lucas-miranda-dourado/
 
 <!--
 **lucasmirandadourado/lucasmirandadourado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
